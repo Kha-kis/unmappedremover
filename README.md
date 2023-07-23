@@ -29,7 +29,7 @@ python main.py http://sonarr_url your_api_key root_folder_id1 root_folder_id2 --
 
 Replace `http://sonarr_url`with the actual Sonarr URL, `your_api_key` with the correct API key, and `root_folder_id1`, `root_folder_id2`, etc., with the root folder IDs you want to process.
 
-`Caution`: The --delete flag will perform the actual delete operation. Ensure you have backups of your data before using this option.
+`Caution`: The `--delete` flag will perform the actual delete operation. Ensure you have backups of your data before using this option.
 
 ## License
 
