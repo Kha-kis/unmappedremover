@@ -2,7 +2,7 @@
 
 ## Description
 
-A Python script to delete unmapped folders in the media directory using the Sonarr API.
+A Python script to delete unmapped folders in the media directory using the Sonarr/Radarr API.
 
 ## Features
 
